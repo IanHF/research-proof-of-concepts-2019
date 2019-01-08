@@ -86,9 +86,7 @@ public class Robot extends TimedRobot {
    */
   @Override
   public void teleopPeriodic() {
-    // webcam integration development environment
-    // future advancements underway, current progress steadfast
-    // will research further infographics
+    
   }
 
   /**
